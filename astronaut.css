@@ -1,7 +1,7 @@
 /**
 * @name Astronaut
 * @author Henry6523
-* @version 3.2
+* @version ersion 1
 * @description An easily customizable and automatically updating theme
 * @source https://github.com/henry6523/Theme-Discord
 */
@@ -52,7 +52,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
@@ -188,9 +188,8 @@
   /*
     Folders
   */
-  --folder-background-color: #2f3136;
+  --folder-background-color: #ffffff;
   --expanded-folder-background-color: transparent;
-
   /*
     Reactions
   */
